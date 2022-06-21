@@ -1,0 +1,1 @@
+Entrego las 6 clases que contienen, 3 clases con atributos públicos, como privados y protegidos, además también tiene métodos tanto públicos, como privados y protegidos, todo en ingles.
